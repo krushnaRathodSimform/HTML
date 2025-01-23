@@ -12,3 +12,6 @@
 
 > ## semantic
 - Semantic markup isn't just for making markup easier for developers to read; it's mostly important in helping automated tools decipher markup. Developer tools demonstrate how semantic elements provide machine-readable structure as well.
+
+> ## attributes
+- Attributes are what make HTML so powerful. Attributes are space-separated names and name/value pairs appearing in the opening tag, providing information about and functionality for the element.
